@@ -1,0 +1,6 @@
+{
+  "name": "Online Shopping Experience Survey",
+  "description": "Independent customer feedback survey about shopping on eBay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
